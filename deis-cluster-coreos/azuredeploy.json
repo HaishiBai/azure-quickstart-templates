@@ -72,7 +72,7 @@
   },
   "variables": {
     "vmNamePrefix": "deisNode",
-    "scriptsUri": "https://raw.githubusercontent.com/mapr/mapr-azure/master/"
+    "scriptsUri": "https://raw.githubusercontent.com/HaishiBai/azure-quickstart-templates/master/deis-cluster-coreos/"
   },
   "resources": [
     {
