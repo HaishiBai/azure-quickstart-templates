@@ -124,7 +124,7 @@
         "typeHandlerVersion": "1.2",
         "settings": {
           "fileUris": [
-            "[concat(variables('scriptsUri'), '/install-deis.sh')]"
+            "[concat(variables('scriptsUri'), 'install-deis.sh')]"
           ],
           "commandToExecute": "[concat('sh install-deis.sh ', ' ')]"
         }
