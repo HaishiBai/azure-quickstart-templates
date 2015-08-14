@@ -2,4 +2,4 @@
 
 
 
-echo "Install Deis here" >> deis.txt
+sudo echo "Install Deis here" >> deis.txt
